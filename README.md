@@ -1,10 +1,12 @@
 Bike Rental Demand Forecasting Dashboard
-Project Overview
+
+Project Overview-
 
 This project focuses on predicting hourly bike rental demand to ensure a stable supply in urban mobility systems . By analyzing historical data, weather patterns, and temporal factors, the dashboard provides actionable insights for fleet rebalancing and accessibility optimization.
 
 
-Key Features
+Key Features-
+
 
 Predictive Analytics: Forecasting total rentals for the next 24 hours based on historical trends.
 
@@ -17,7 +19,8 @@ Weather Impact Analysis: Visualizing how temperature, humidity, and rainfall aff
 
 Scenario Simulation: Interactive filters to simulate demand under different weather and holiday conditions .
 
-Technology Stack
+
+Technology Stack-
 
 Analytics Platform: Microsoft Power BI.
 
@@ -35,7 +38,9 @@ Error Margin: Mean Absolute Error (MAE) maintained within optimal limits (e.g., 
 
 Peak Demand Mapping: Identifying peak hours (e.g., 6:00 PM) for better resource allocation.
 
-Project Structure
+
+Project Structure-
+
 
 /dashboards: Contains high-resolution screenshots of the Power BI interface.
 
